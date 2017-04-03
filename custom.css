@@ -1,0 +1,30 @@
+.projects-title{
+  font-size: 16px;
+}
+.projects-subtitle{
+  font-size: 12px;
+  margin-top: -6px;
+}
+a.projects-link {
+  text-decoration: none;
+  color: blue;
+}
+.projects-content{
+  color: blue !important;
+  margin: 5px;
+  padding: 5px;
+}
+
+.project{
+	margin: 10px;
+	padding: 5px;
+	border: 2px;		
+}
+
+.project-content-left{
+  border-right: 1px blue !important;
+}
+
+.project-content-right{
+  text-align: right;
+}

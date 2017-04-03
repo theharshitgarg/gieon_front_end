@@ -1,0 +1,31 @@
+{
+  "name": "edfora_challenge",
+  "description": "This is a solution to edofr hiring challenge. It uses angular to build hacker news website.",
+  "main": "index.js",
+  "authors": [
+    "Harshit Garg"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "edfora",
+    "angular"
+  ],
+  "homepage": "https://github.com/theharshitgarg/edfora_challenge",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap-material": "abm#^0.1.4",
+    "angular-moment": "^1.0.1",
+    "angularUtils-pagination": "angular-utils-pagination#^0.11.1",
+    "angular-material-icons": "^0.7.1",
+    "angular-material": "^1.1.3",
+    "moment": "^2.17.1",
+    "material-design-icons": "^3.0.1"
+  }
+}
